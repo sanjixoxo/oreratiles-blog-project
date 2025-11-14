@@ -35,7 +35,7 @@ function Footer() {
         <p style={styles.footerCopy}>
         © {new Date().getFullYear()} BlogSphere. All rights reserved.
         </p>
-      </div>run
+      </div>
     </footer>
   );
 }
